@@ -1,6 +1,8 @@
 Hello from github
 
-
+introducing github conflicts.
+ththfhhsjxch cvjj zzx v znvc z v
+sdhg v zjvcmb j
 
 git init ---> To initialize a folder or project.
 git status ----> This command will give you the current state of your project or folder.
