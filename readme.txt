@@ -1,9 +1,9 @@
 
 heelo from github
 Hello from github
-
-
-
+zcnb  xcn ch c
+  b bfhfhhcjjdnd
+  dchdhbdj djb ddb 
 git init ---> To initialize a folder or project.
 git status ----> This command will give you the current state of your project or folder.
 git add -name -----> add the file name to staging area.
