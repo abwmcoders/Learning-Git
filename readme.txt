@@ -1,5 +1,8 @@
 
 heelo from github
+Hello from github
+
+
 
 git init ---> To initialize a folder or project.
 git status ----> This command will give you the current state of your project or folder.
@@ -16,3 +19,4 @@ Updating with remote
 
 git pull origin main ---> pulling down updates from remote repository
 git push -----> push changes to github.
+git branch -m name ----> create and move to a certain branch.
