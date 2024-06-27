@@ -1,0 +1,1 @@
+stout("Hello world");
