@@ -12,3 +12,4 @@ git checkout main ----> move from current branch to main
 Updating with remote
 
 git pull origin main ---> pulling down updates from remote repository
+git push -----> push changes to github.
